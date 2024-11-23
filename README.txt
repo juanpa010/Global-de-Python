@@ -1,19 +1,19 @@
 Programa de Análisis de ADN
-Este programa permite analizar secuencias de ADN para detectar mutaciones, realizar mutaciones en el ADN y sanarlo si es necesario. Las mutaciones pueden ser generadas por radiación (horizontal o vertical) o por un virus (diagonal). El programa tambien permite detectar si una secuencia de ADN contiene mutaciones y sanarla automáticamente si es necesario.
+Este programa permite analizar secuencias de ADN para detectar mutaciones, realizar mutaciones en el ADN y sanarlo si es necesario. Las mutaciones pueden ser generadas por radiación (horizontal o vertical) o por un virus (diagonal). El programa también permite detectar si una secuencia de ADN contiene mutaciones y sanarla automáticamente si es necesario.
 
-Participantes del Grupo
-Adriel Ezequias Isgro
+Participantes del Grupo:
+Adriel Ezequias Herrera Isgró
 Juan Pablo Gomez
 Leandro Benaiges
 Lucas Ledesma
 
 Cómo se ejecuta nuestro programa:
 
-El programa presenta un menú con varias opciones para interactuar con el ADN:
+El programa presenta un menú con varias opciones para interactuar con el ADN.
 
-Detectar mutaciones: El programa le dirá si su ADN tiene mutaciones .
+Detectar mutaciones: El programa le dirá si su ADN tiene mutaciones.
 
-Mutar el ADN: SE puede agregar mutaciones en el ADN de dos formas:
+Mutar el ADN: Se puede agregar mutaciones en el ADN de dos formas:
 
 Radiación: Cambia el ADN en forma horizontal o vertical.
 
@@ -21,13 +21,13 @@ Virus: Agrega mutaciones en forma diagonal.
 
 Sanar el ADN: Si tu ADN tiene mutaciones, el programa intentará sanarlo, creando una nueva secuencia de ADN sin errores.
 
-A continuación, se muestra un ejemplo de cómo ejecutar el programa:
+A continuación se muestra un ejemplo de cómo ejecutar el programa:
 
 El usuario debe ingresar una matriz de ADN, que consiste en 6 filas y 6 columnas de bases nitrogenadas (A, T, C, G).
 
 Ejemplo de matriz de entrada:
 
-Copiar código
+Ingresar código
 ATGCAT
 TACGGT
 GGCATA
